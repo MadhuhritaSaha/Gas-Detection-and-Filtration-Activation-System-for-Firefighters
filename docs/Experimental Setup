@@ -1,0 +1,13 @@
+## Experimental Setup
+- MQ-2 on A1 pin; Buzzer on D3
+- LCD for status
+- Arduino Nano preferred for compactness
+
+---
+
+## Implementation Roadmap
+1. Sensor calibration
+2. Microcontroller integration
+3. Filtration mechanism wiring
+4. Wearable assembly
+5. Testing and validation
