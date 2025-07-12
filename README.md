@@ -43,6 +43,16 @@ Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) before submitting issues 
 
 ---
 
+## 📢 Attribution Requirement
+
+**If you use, modify, or distribute this project, you must provide credit to the original author:**
+
+> "Based on the Wearable Toxic Gas Detection and Filtration Activation System for Firefighters by Madhuhrita Saha (2025)"
+
+See [CREDITS.md](CREDITS.md) for details.
+
+---
+
 ## License
 
 [MIT License](LICENSE)
